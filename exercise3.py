@@ -7,7 +7,7 @@ def steigung_funktion(liste):
     delta_x = x2 - x1
     delta_y = y2 - y1
     
-    steigung = delta_y / delta_x)
+    steigung = delta_y / delta_x
     
     if delta_x == 0:
         print("Die Steigung ist nicht definiert")
